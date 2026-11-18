@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment variables
+.env
+
+# Pytest cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Persisted session storage
+data/sessions/*
+!data/sessions/.gitkeep
