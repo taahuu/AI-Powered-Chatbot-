@@ -265,3 +265,4 @@ The architecture includes a built-in extension point for Retrieval-Augmented Gen
    ```
 
 `ChatService` and `PromptBuilder` automatically format retrieved documents into structured `<context>` blocks without requiring any changes to the core prompt pipeline.
+# AI-Powered-Chatbot-
